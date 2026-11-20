@@ -1,0 +1,13 @@
+{
+  "name": "analyse-prompt",
+  "description": "Marketplace für das analyse-prompt Plugin: Prompts prüfen, klären und mit echten Probeläufen schärfen.",
+  "owner": { "name": "MakeNative" },
+  "plugins": [
+    {
+      "name": "analyse-prompt",
+      "source": "./",
+      "description": "Prüft einen Prompt wie ein Prompt Engineer, klärt mit dir, was der Agent genau tun soll, und schärft ihn mit echten Probeläufen vorher und nachher.",
+      "author": { "name": "ceichmueller" }
+    }
+  ]
+}

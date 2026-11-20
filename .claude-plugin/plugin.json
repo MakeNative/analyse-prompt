@@ -1,0 +1,7 @@
+{
+  "name": "analyse-prompt",
+  "description": "Prüft einen Prompt, eine Agenten-Definition, einen Skill oder eine CLAUDE.md wie ein Prompt Engineer: belegte Rubrik, Kaltlesung ohne Vorwissen, Fragen an dich in Runden, dann eine geschärfte Fassung mit Schutzbausteinen wie „erfinde nichts“, nachgewiesen mit echten Probeläufen vorher und nachher.",
+  "version": "0.1.0",
+  "author": { "name": "ceichmueller" },
+  "license": "MIT"
+}
